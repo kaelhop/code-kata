@@ -8,4 +8,8 @@ describe 'solution' do
     expect(eight(minus(three))).to eq 5
     expect(six(divided_by(two))).to eq 3
   end
+
+  it 'puts the length' do
+    p File.read('solution.rb').length
+  end
 end
