@@ -9,6 +9,11 @@ describe 'solution' do
     expect(six(divided_by(two))).to eq 3
   end
 
+  it 'can chain' do
+    # 5 + 3 - 1 * 4 / 2 = 6
+    expect(five(plus(three(minus(one(times(four(divided_by(two))))))))).to eq 6
+  end
+
   it 'puts the length' do
     p File.read('solution.rb').length
   end
