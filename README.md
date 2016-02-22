@@ -7,5 +7,8 @@ Went for minimizing the code. Had an idea as to what was needed to solve this on
 ### Edit:
 Thanks to jfine for posting his code I learned something new, was able to add the ability to chain the methods and also decrease the characters used to 200.
 
+### Edit 2:
+Managed to do some more research and fine a way to get it down to 198 characters.
+
 Kael Hopenwasser
 kaelhop
