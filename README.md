@@ -10,5 +10,8 @@ Thanks to jfine for posting his code I learned something new, was able to add th
 ### Edit 2:
 Managed to do some more research and fine a way to get it down to 198 characters.
 
+### Edit 3:
+'Zipped' to one less character: 197
+
 Kael Hopenwasser
 kaelhop
